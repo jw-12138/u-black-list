@@ -1,3 +1,4 @@
-*://*.csdn.*/*
+*://*.csdn.net/*
+*://*.csdn.com/*
 *://*.medium.com/*
-*://*.gitcode.*/*
+*://*.gitcode.com/*
